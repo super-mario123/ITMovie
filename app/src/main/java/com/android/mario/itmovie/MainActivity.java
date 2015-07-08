@@ -14,6 +14,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     private ImageBtn mImageBtnOK;
     private ImageBtn mImageBtnERROR;
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
