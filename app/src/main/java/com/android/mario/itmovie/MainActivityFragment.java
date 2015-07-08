@@ -16,6 +16,7 @@ public class MainActivityFragment extends Fragment {
     }
 
     public Fragment newInstance(){
+        
         return new MainActivityFragment();
     }
 
