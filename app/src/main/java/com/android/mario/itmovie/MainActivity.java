@@ -58,9 +58,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         switch (v.getId()){
             case R.id.image_smile_btn:
                 Toast.makeText(this,"确定",Toast.LENGTH_SHORT).show();
+                mImageBtnOK.setImageRes(R.drawable.smile_img);
                 break;
             case R.id.image_sad_btn:
                 Toast.makeText(this,"取消",Toast.LENGTH_SHORT).show();
+                mImageBtnERROR.setImageRes(R.drawable.sad_img);
                 break;
         }
     }
