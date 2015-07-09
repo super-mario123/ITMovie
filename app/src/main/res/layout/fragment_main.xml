@@ -8,13 +8,13 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context=".MainActivityFragment">
 
-    <com.android.mario.itmovie.ImageBtn
+    <com.android.mario.itmovie.views.ImageBtn
         android:id="@+id/image_smile_btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@drawable/smile_btn"/>
 
-    <com.android.mario.itmovie.ImageBtn
+    <com.android.mario.itmovie.views.ImageBtn
         android:id="@+id/image_sad_btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

@@ -1,4 +1,4 @@
-package com.android.mario.itmovie;
+package com.android.mario.itmovie.views;
 
 import android.content.Context;
 import android.util.AttributeSet;
