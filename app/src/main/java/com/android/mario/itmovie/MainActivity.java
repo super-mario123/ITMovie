@@ -7,8 +7,6 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
-import com.android.mario.itmovie.com.android.mario.itmovie.views.ImageBtn;
-
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
